@@ -20,7 +20,7 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" height="30" width="40" src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg">
   <img align="center" heigth="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png">
 </div><br>
 
