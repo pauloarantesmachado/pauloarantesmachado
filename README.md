@@ -28,4 +28,4 @@
 <img src="https://pa1.narvii.com/6524/ccf23d595525079d4f9b33e8d696267f9a59e15d_hq.gif" alt="Paulo-poke" height="229" width="320">
 </div>
 
-
+![snake gif](https://github.com/pauloarantesmachado/pauloarantesmachado/blob/output/github-contribution-grid-snake.svg)
