@@ -24,6 +24,8 @@
   <img align="center" height="30" width="40" src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg">
   <img align="center" heigth="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+   <img align="center" alt="Paulo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+     <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div><br>
 
 <div align="center">
