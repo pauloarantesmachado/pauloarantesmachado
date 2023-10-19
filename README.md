@@ -26,6 +26,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img align="center" alt="Paulo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
      <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div><br>
 
 <div align="center">
