@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Olá, seja bem vindo(a) 🧑‍💻 💻 📚</p>
+  <p>Hello, welcome 🧑‍💻 💻 📚</p>
 <br>
   
 <div align="center">
@@ -9,7 +9,7 @@
 </div><br>
   
 <div align="center">
-  <strong> Estudando...</strong>
+  <strong> learning...</strong>
 </div>
 <div style="display: inline_block"  align="center"><br>
   
@@ -26,11 +26,11 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img align="center" alt="Paulo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
      <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+      <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
 <div align="center">
-  <strong> Contato...</strong>
+  <strong> Contact...</strong>
 </div> 
 <div  align="center" ><br>
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid%3D12619604102_asid%3D122510713320_crid%3D509739556283_kw%3Dlikedin_d%3Dc_tid%3Dkwd-2694945982_n%3Dg_mt%3Dp_geo%3D9074180_slid%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
