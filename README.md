@@ -4,8 +4,17 @@
   
 <div align="center">
   <a href="https://github.com/pauloarantesmachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloarantesmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloarantesmachado&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=pauloarantesmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloarantesmachado&layout=compact&langs_count=7&theme=tokyonight"
+    alt="Linguagens mais usadas"
+  />
+</div>
 </div><br>
   
 <div align="center">
